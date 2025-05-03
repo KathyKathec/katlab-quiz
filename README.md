@@ -36,12 +36,14 @@ O haz clic en el siguiente enlace:
 
 El proyecto está organizado de la siguiente manera:
 
+
+```bash
 /katlab-quiz-game
 │
-├── /assets # Archivos estáticos como imágenes y recursos
-├── /css # Estilos de la página
-├── /js # Lógica del juego en JavaScript
-└── index.html # Página principal del juego
+├── /assets       # Archivos estáticos como imágenes y recursos
+├── /css          # Estilos de la página
+├── /js           # Lógica del juego en JavaScript
+└── index.html    # Página principal del juego
 
 
 

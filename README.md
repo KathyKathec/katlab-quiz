@@ -44,7 +44,7 @@ El proyecto está organizado de la siguiente manera:
 ├── /css          # Estilos de la página
 ├── /js           # Lógica del juego en JavaScript
 └── index.html    # Página principal del juego
-
+```
 
 
 ## 🛠️ **Tecnologías Usadas**

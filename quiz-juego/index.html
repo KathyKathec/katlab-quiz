@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>KatLab</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="welcome-screen">
+    <h1>¡Bienvenid@s a <span class="logo">KatLab</span>!</h1>
+    <p>Prepárate para jugar, aprender y divertirte como nunca 😄</p>
+    <button class="start-button" onclick="startQuiz()">Empezar</button>
+  </div>
+
+  <div id="quiz-container" style="display: none;">
+    <h2>Pregunta 1:</h2>
+    <p>¿Cuál es la capital de Francia?</p>
+    <button onclick="answer('a')">a) Madrid</button>
+    <button onclick="answer('b')">b) Berlín</button>
+    <button onclick="answer('c')">c) París</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
